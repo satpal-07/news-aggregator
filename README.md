@@ -1,4 +1,5 @@
 # front-end-news-aggregator
+News aggregator single page app, created using Vue.js
 
 ## Project setup
 ```
